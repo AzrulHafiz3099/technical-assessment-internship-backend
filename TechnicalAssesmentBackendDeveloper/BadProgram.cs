@@ -13,6 +13,7 @@ class Booking
 
     public void BookRoom(string name, string room, DateTime checkin, DateTime checkout, double rate, double discountRate)
     {
+        // firstcommit
         guestname = name;
         roomnumber = room;
         checkindate = checkin;
